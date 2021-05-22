@@ -1,1 +1,1 @@
-# Linkedin job posting scraper using selenium 
+Linkedin job posting scraper using selenium 
